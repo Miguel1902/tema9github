@@ -73,13 +73,13 @@ class persona {
         return this.telefono;
     }
 }
-
+//hereda la clase cliente de persona
 class cliente extends persona{
     
     int credito=1000;
   
 }
-
+//hereda la clase trabajador de persona 
 class trabajador extends persona{
 
     int salario=1700;

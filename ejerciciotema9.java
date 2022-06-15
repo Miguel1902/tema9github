@@ -44,7 +44,7 @@ public class ejerciciotema9 {
 
 
 class persona {
-    int edad=89; 
+    int edad=89;
     String nombre;
     int telefono=95;
     
